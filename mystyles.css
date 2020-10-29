@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+body {
+margin: .25in;
+padding: .25in;
+}
+
+h1 {
+color: black;
+font-size: 34pt;
+font-family: 'Merriweather';
+}
+
+p1 {
+color: black;
+font-size: 9pt;
+font-family: 'Open Sans';
+}
+
+p2 {
+color: blue;
+font-size: 9pt;
+font-family: 'Open Sans';
+}
+
+p2:after {
+    content:"\a";
+    white-space: pre;
+}
+
+p3 {
+color: black;
+font-size: 11pt;
+font-family: 'Merriweather';
+}
+
+p3:after {
+    content:"\a";
+    white-space: pre;
+}
+
+p4 {
+color : gray;
+font-size: 9pt;
+font-family: "Merriweather';
+}
+
+p4:after {
+    content:"\a";
+    white-space: pre;
+}
+
