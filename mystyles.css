@@ -6,6 +6,13 @@ margin: .25in;
 padding: .25in;
 }
 
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
 h1 {
 color: black;
 font-size: 34pt;
